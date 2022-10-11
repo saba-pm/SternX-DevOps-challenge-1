@@ -13,6 +13,7 @@ Add your environment variables to `env.txt`.
 Then, run the bash script:
 
 ```
+cd SternX-DevOps-challenge-1
 chmod u+x deploy.sh
 ./deploy.sh
 ```
